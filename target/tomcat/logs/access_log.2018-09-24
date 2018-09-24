@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [24/Sep/2018:09:30:41 +0700] "GET /akademik/ HTTP/1.1" 200 1696 http-bio-8080-exec-1 585
+0:0:0:0:0:0:0:1 - - [24/Sep/2018:09:30:41 +0700] "GET /akademik/resources/css/hello.css;jsessionid=BA3B4B23C4E5927D82D80F3296F7B736 HTTP/1.1" 404 949 http-bio-8080-exec-2 9
+0:0:0:0:0:0:0:1 - - [24/Sep/2018:09:30:41 +0700] "GET /akademik/resources/core/css/bootstrap.min.js;jsessionid=BA3B4B23C4E5927D82D80F3296F7B736 HTTP/1.1" 404 949 http-bio-8080-exec-5 6
+0:0:0:0:0:0:0:1 - - [24/Sep/2018:09:30:41 +0700] "GET /akademik/resources/core/css/hello.js;jsessionid=BA3B4B23C4E5927D82D80F3296F7B736 HTTP/1.1" 404 949 http-bio-8080-exec-4 8
+0:0:0:0:0:0:0:1 - - [24/Sep/2018:09:30:41 +0700] "GET /akademik/resources/css/bootstrap.min.css;jsessionid=BA3B4B23C4E5927D82D80F3296F7B736 HTTP/1.1" 200 140936 http-bio-8080-exec-3 73
+0:0:0:0:0:0:0:1 - - [24/Sep/2018:09:30:42 +0700] "GET /akademik/resources/core/css/bootstrap.min.js;jsessionid=BA3B4B23C4E5927D82D80F3296F7B736 HTTP/1.1" 404 949 http-bio-8080-exec-9 1
+0:0:0:0:0:0:0:1 - - [24/Sep/2018:09:30:42 +0700] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-10 0
