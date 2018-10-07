@@ -15,14 +15,14 @@
 	<context:component-scan
 		base-package="id.triqul" />
 	<mvc:default-servlet-handler />
- 
+  
 	<bean id="viewResolver"
 		class="org.springframework.web.servlet.view.UrlBasedViewResolver">
 		<property name="viewClass"
 			value="org.springframework.web.servlet.view.JstlView" />
 		<property name="prefix" value="/WEB-INF/jsp/" />
 		<property name="suffix" value=".jsp" />
-	</bean>
+	</bean> 
 	
 	<mvc:resources mapping="/resources/**" location="/resources/" />
  
